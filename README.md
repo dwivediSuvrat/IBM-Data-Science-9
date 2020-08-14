@@ -4,7 +4,14 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "## This notebook will be mainly used for the capstone project"
+    "# IBM Data Science Capstone Project"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "This notebook is for the capstone project of the IBM Data Science Professional Course. We will be using location data along with machine learninh techniques to find answer to certain questions"
    ]
   },
   {
@@ -58,9 +65,10 @@
    "name": "python",
    "nbconvert_exporter": "python",
    "pygments_lexer": "ipython3",
-   "version": "3.7.6"
+   "version": "3.7.4"
   }
  },
  "nbformat": 4,
  "nbformat_minor": 4
 }
+
